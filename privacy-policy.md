@@ -6,9 +6,9 @@ Salvation is a secure employee management platform developed for Master Tattoo I
 
 ## Quick Links
 
-- [Privacy Policy](privacy-policy.md)
-- [Terms & Conditions](terms-and-conditions.md)
-- [Support](support.md)
+- 📄 [Privacy Policy](https://ai-knights.github.io/Salavation/privacy-policy)
+- 📜 [Terms & Conditions](https://ai-knights.github.io/Salavation/terms-and-conditions)
+- 🛠️ [Support](https://ai-knights.github.io/Salavation/support)
 
 ## Features
 
